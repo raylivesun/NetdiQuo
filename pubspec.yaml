@@ -1,5 +1,5 @@
 name: netdiquo
-dependencies:
-  netdiquo: ^1.0.0
 environment:
   sdk: '^3.4.0'
+dependencies:
+  http: ^1.2.1
