@@ -36,3 +36,6 @@ void main() async {
 In this example, we create an instance of NetdiquoClient, make a GET request to the specified URL, and handle the response. If the request is successful, we print the response body. If there is an error, we print the error message. Finally, we close the client to release resources.
 
 For more information about Netdiquo, refer to the [official documentation](https://api.dart.dev/stable/3.4.4/index.html).
+
+Fetch data from the internet
+dart pub add http
